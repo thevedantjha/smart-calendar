@@ -1,2 +1,2 @@
 # smart-calendar
-AI Assisted Calendar Manager for iOS
+AI Assisted Calendar Manager App for iPhone
